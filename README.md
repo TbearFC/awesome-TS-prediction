@@ -1,7 +1,7 @@
-# awesome-TS-predict
+# awesome-TS-prediction
 A curated list of awesome time series predict algorithm, libraries and software.
 
-~~Read~~ this in [English](./README.md), [Traditional Chinese](./README-ZH-TW.md)~~
+~~Read this in [English](./README.md), [Traditional Chinese](./README-ZH-TW.md)~~
 
 
 ## Contents
